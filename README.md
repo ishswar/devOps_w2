@@ -1,9 +1,9 @@
 # devOps_w2
 For week 2 of work ( Vagrant and bash ) 
 
-
+==
 Output of Vagrant when - "vagrant up" is called 
-
+==
 
 <pre>
 ➜  DevOps02 vagrant up
